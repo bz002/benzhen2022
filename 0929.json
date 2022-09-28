@@ -2,16 +2,28 @@
 "spider": "http://shuyuan.miaogongzi.net/shuyuan/1661997850.txt;md5;1C1482FF646CC40E1F924EBE320822BC",
 "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 "sites":[
-{"key": "学堂1","name": "儿童乐园〔SP〕","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://mpimg.cn/down.php/1f9bd3e9e08bc31edca10dd5171e2db3.txt"},
+{"key": "学堂1","name": "儿童乐园〔SP〕","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,
+ "filterable": 1,"ext": "https://mpimg.cn/down.php/1f9bd3e9e08bc31edca10dd5171e2db3.txt"},
 
-{"key": "学堂2","name": "小学学习〔SP〕","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://mpimg.cn/down.php/0575ea0aee9ec2aabd7d01c443348a1e.txt"},
+{"key": "学堂2","name": "小学学习〔SP〕","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,
+ "filterable": 1,"ext": "https://mpimg.cn/down.php/0575ea0aee9ec2aabd7d01c443348a1e.txt"},
 
-{"key": "学堂3","name": "初中学习〔SP〕","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://mpimg.cn/down.php/43fa61eb279212c2c919d270dd827e55.txt"},
+{"key": "学堂3","name": "初中学习〔SP〕","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,
+ "filterable": 1,"ext": "https://mpimg.cn/down.php/43fa61eb279212c2c919d270dd827e55.txt"},
 
-{"key": "学堂4","name": "高中学习〔SP〕","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext": "https://mpimg.cn/down.php/e50f123ba6ae1d6fdd8f053297445b7f.txt"},
-{"key": "戏曲","name": "戏曲大全〔SP〕","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://mpimg.cn/down.php/9c8b65fd0cb0d00de894c16f216850e3.json"}
-{"key":"*博天堂","name":"*博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0},
+{"key": "学堂4","name": "高中学习〔SP〕","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,
+ "filterable": 1,"ext": "https://mpimg.cn/down.php/e50f123ba6ae1d6fdd8f053297445b7f.txt"},
+{"key": "戏曲","name": "戏曲大全〔SP〕","type": 3,"api": "csp_Bili","searchable": 1,
+ "quickSearch": 1,"filterable": 1,"ext": "https://mpimg.cn/down.php/9c8b65fd0cb0d00de894c16f216850e3.json"},
+
+
  {"key":"*优质","name":"*优质","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":0,"quickSearch":0},
+ 
+{"key":"*博天堂","name":"*博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0},
+
+{"key":"*环亚资源","name":"*环亚资源","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":0,"quickSearch":0},
+
+
 {"key":"*523资源","name":"*523资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"*丝袜资源","name":"*丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","searchable":0,"quickSearch":0},
 
@@ -85,7 +97,7 @@
 {"key":"*辣椒资源","name":"*辣椒资源","type":1,"api":"https://apilj.com/api.php/provide/vod/at/json/","searchable":0,"quickSearch":0},
 {"key":"*乐播资源","name":"*乐播资源","type":1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 
-{"key":"*环亚资源","name":"*环亚资源","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":0,"quickSearch":0},
+
 {"key":"*JAV名优馆","name":"*JAV名优馆","type":0,"api":"http://mygzycj.com/api.php?ac=videolist","searchable":0,"quickSearch":0},
 {"key":"*AVZY6888资源","name":"*AVZY6888资源","type":1,"api":"http://m.7777688.com/inc/apijson.php","searchable":0,"quickSearch":0},
 {"key":"*色色资源","name":"*色色资源","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
